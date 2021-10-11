@@ -1,14 +1,10 @@
 <p align = right>
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeus1112%2Fhit-counter&count_bg=%2373BCE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeus1112%2Fhit-counter&count_bg=%2373BCE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
 </p>
-<p>
 <h3><b>Contect Me</h3>
 <img src="https://img.shields.io/badge/jaewshim94@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:jaewshim94@gmail.com"/></a>&nbsp
-</p>
-<br>
-<h3 align = center><b>🛠 Tech Stack 🛠</h3><br>
+<h3 align = center><b>🛠 Tech Stack 🛠</h3>
 <p align = center>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp
@@ -23,16 +19,6 @@
     <img src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
-    <br>
-    <!-- <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/NFC-002e5f?style=flat-square&logo=nfc&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Arduino-00979d?style=flat-square&logo=arduino&logoColor=white"/></a>&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp -->
 </p>
 <br>
 <p align=center>
